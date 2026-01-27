@@ -76,3 +76,56 @@ UI screenshots are included in the repository:
 
 ## 🧩 Folder Structure (Simplified)
 
+frontend/
+├── components/
+├── pages/
+├── context/
+├── services/
+└── App.js
+
+Learning Outcomes
+
+Implemented complete authentication flow
+
+Built reusable UI components
+
+Managed global cart state efficiently
+
+Designed clean, responsive UI
+
+Integrated frontend with REST APIs
+
+🔮 Future Enhancements
+
+Payment gateway integration
+
+Admin dashboard
+
+Order history & tracking
+
+Email notifications
+
+Rating & review system
+
+🤝 Contribution
+
+Feel free to fork this repository and submit pull requests.
+Suggestions and improvements are always welcome!
+
+📬 Contact
+
+Developer: Sam
+📧 Email: samarthkawade2005@gmail.com
+, harshsakhare450@gmail.com
+
+🔗 GitHub: https://github.com/samarth0721 
+, https://github.com/hArsh-s8
+
+⭐ If you like this project, don’t forget to star the repo!
+
+backend/
+├── controllers/
+├── routes/
+├── models/
+├── middleware/
+└── server.js
