@@ -119,7 +119,7 @@ Suggestions and improvements are always welcome!
 ## 📬 Contact
 **Developer:** Sam  
 📧 Email: samarthkawade2005@gmail.com, harshsakhare450@gmail.com  
-🔗 GitHub: https://github.com/your-username  
+🔗 GitHub: https://github.com/samarth0721, https://github.com/hArsh-s8
 
 ---
 
