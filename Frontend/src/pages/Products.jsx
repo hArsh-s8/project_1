@@ -13,7 +13,7 @@ const Products = ({ cartItems, setCartItems }) => {
     const [error, setError] = useState(null);
 
     // ✅ admin check
-    const isAdmin = localStorage.getItem("role") === "admin";
+    const token = localStorage.getItem('token');
 
     useEffect(() => {
         const fetchProducts = async () => {
@@ -122,7 +122,7 @@ const Products = ({ cartItems, setCartItems }) => {
             </div>
 
             {/* ✅ SHOW ONLY IF ADMIN */}
-            {isAdmin && (
+            {token && (
                 <div>
                     <button
                         className="floating-add-btn"
